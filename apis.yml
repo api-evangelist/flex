@@ -49,12 +49,12 @@ modified: '2026-07-19'
 tags:
 - Company
 - Fintech
-- Financial-Services
+- Financial Services
 - Payments
 - Rent Payments
 - Consumer Finance
 - Bill Pay
-- Real-Estate
+- Real Estate
 tags_raw:
 - Company
 - FinTech
@@ -64,6 +64,8 @@ tags_raw:
 - Consumer Finance
 - Bill Pay
 - Real Estate
+- Financial-Services
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
